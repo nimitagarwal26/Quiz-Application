@@ -21,9 +21,9 @@ public class QuestionAnswer {
             {"Object-oriented","Use of pointers","Portable","Dynamic and Extensible"},
             {".js",".txt",".java",".class"},
             {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"},
-            {" Client" ,"Server"," Both" ,"None"},
+            {" Client" ,"Server","Both" ,"None"},
             {"catch","label","try","default"},
-            {" if(x 2)","if(x = 2)","if(x == 2)","if(x != 2 )"}
+            {" if(x 2)","if(x = 2)","if(x==2)","if(x != 2 )"}
 
     };
 
