@@ -7,7 +7,8 @@ public class QuestionAnswer {
             "Which programming language is used for android application development?",
             "What does API stand for?",
             "Which one of the following is not a Java feature?",
-            "What is the extension of java code files?"
+            "What is the extension of java code files?",
+            "Which environment variable is used to set the java path?"
     };
 
     public static String choices[][]={
@@ -15,7 +16,8 @@ public class QuestionAnswer {
             {"Java","PHP","JSX","NodeJS"},
             {"Algorithmic Protocol Interface","Accelerated Programming Interface","Application Programming Interface","None of above"},
             {"Object-oriented","Use of pointers","Portable","Dynamic and Extensible"},
-            {".js",".txt",".java",".class"}
+            {".js",".txt",".java",".class"},
+            {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"}
 
     };
 
@@ -24,7 +26,8 @@ public class QuestionAnswer {
             "Java",
             "Application Programming Interface",
             "Use of pointers",
-            ".java"
+            ".java",
+            "JAVA_HOME"
 
     };
 
