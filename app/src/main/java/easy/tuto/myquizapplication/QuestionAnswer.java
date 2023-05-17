@@ -11,7 +11,8 @@ public class QuestionAnswer {
             "Which environment variable is used to set the java path?",
             "JavaScript is a ___ -side programming language.",
             "Which JavaScript label catches all the values, except for the ones specified?",
-            "Which are the correct “if” statements to execute certain code if “x” is equal to 2?"
+            "Which are the correct “if” statements to execute certain code if “x” is equal to 2?",
+            "Which data type is used to create a variable that should store text?"
     };
 
     public static String choices[][]={
@@ -23,7 +24,8 @@ public class QuestionAnswer {
             {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"},
             {" Client" ,"Server","Both" ,"None"},
             {"catch","label","try","default"},
-            {" if(x 2)","if(x = 2)","if(x==2)","if(x != 2 )"}
+            {" if(x 2)","if(x = 2)","if(x==2)","if(x != 2 )"},
+            {"String","myString","txt","string"}
 
     };
 
@@ -36,7 +38,8 @@ public class QuestionAnswer {
             "JAVA_HOME",
             "Both",
             "default",
-            "if(x==2)"
+            "if(x==2)",
+            "String"
 
     };
 
