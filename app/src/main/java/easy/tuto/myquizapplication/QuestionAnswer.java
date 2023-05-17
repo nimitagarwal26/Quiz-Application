@@ -9,7 +9,8 @@ public class QuestionAnswer {
             "Which one of the following is not a Java feature?",
             "What is the extension of java code files?",
             "Which environment variable is used to set the java path?",
-            "JavaScript is a ___ -side programming language."
+            "JavaScript is a ___ -side programming language.",
+            "Which JavaScript label catches all the values, except for the ones specified?"
     };
 
     public static String choices[][]={
@@ -19,7 +20,8 @@ public class QuestionAnswer {
             {"Object-oriented","Use of pointers","Portable","Dynamic and Extensible"},
             {".js",".txt",".java",".class"},
             {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"},
-            {" Client" ,"Server"," Both" ,"None"}
+            {" Client" ,"Server"," Both" ,"None"},
+            {"catch","label","try","default"}
 
     };
 
@@ -30,7 +32,8 @@ public class QuestionAnswer {
             "Use of pointers",
             ".java",
             "JAVA_HOME",
-            "Both"
+            "Both",
+            "default"
 
     };
 
