@@ -13,7 +13,8 @@ public class QuestionAnswer {
             "Which JavaScript label catches all the values, except for the ones specified?",
             "Which are the correct “if” statements to execute certain code if “x” is equal to 2?",
             "Which data type is used to create a variable that should store text?",
-            "What is the extension of compiled java classes?"
+            "What is the extension of compiled java classes?",
+            "Which exception is thrown when java is out of memory?"
     };
 
     public static String choices[][]={
@@ -27,7 +28,8 @@ public class QuestionAnswer {
             {"catch","label","try","default"},
             {" if(x 2)","if(x = 2)","if(x==2)","if(x != 2 )"},
             {"String","myString","txt","string"},
-            {".js",".txt",".java",".class"}
+            {".js",".txt",".java",".class"},
+            {"MemoryError","OutOfMemoryError","MemoryOutOfBoundsException","MemoryFullException"}
 
     };
 
@@ -42,7 +44,8 @@ public class QuestionAnswer {
             "default",
             "if(x==2)",
             "String",
-            ".class"
+            ".class",
+            "OutOfMemoryError"
 
     };
 
