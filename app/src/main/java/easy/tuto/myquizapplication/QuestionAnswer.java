@@ -12,7 +12,8 @@ public class QuestionAnswer {
             "JavaScript is a ___ -side programming language.",
             "Which JavaScript label catches all the values, except for the ones specified?",
             "Which are the correct “if” statements to execute certain code if “x” is equal to 2?",
-            "Which data type is used to create a variable that should store text?"
+            "Which data type is used to create a variable that should store text?",
+            "What is the extension of compiled java classes?"
     };
 
     public static String choices[][]={
@@ -25,7 +26,8 @@ public class QuestionAnswer {
             {" Client" ,"Server","Both" ,"None"},
             {"catch","label","try","default"},
             {" if(x 2)","if(x = 2)","if(x==2)","if(x != 2 )"},
-            {"String","myString","txt","string"}
+            {"String","myString","txt","string"},
+            {".js",".txt",".java",".class"}
 
     };
 
@@ -39,7 +41,8 @@ public class QuestionAnswer {
             "Both",
             "default",
             "if(x==2)",
-            "String"
+            "String",
+            ".class"
 
     };
 
