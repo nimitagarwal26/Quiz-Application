@@ -8,7 +8,8 @@ public class QuestionAnswer {
             "What does API stand for?",
             "Which one of the following is not a Java feature?",
             "What is the extension of java code files?",
-            "Which environment variable is used to set the java path?"
+            "Which environment variable is used to set the java path?",
+            "JavaScript is a ___ -side programming language."
     };
 
     public static String choices[][]={
@@ -17,7 +18,8 @@ public class QuestionAnswer {
             {"Algorithmic Protocol Interface","Accelerated Programming Interface","Application Programming Interface","None of above"},
             {"Object-oriented","Use of pointers","Portable","Dynamic and Extensible"},
             {".js",".txt",".java",".class"},
-            {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"}
+            {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"},
+            {" Client" ,"Server"," Both" ,"None"}
 
     };
 
@@ -27,7 +29,8 @@ public class QuestionAnswer {
             "Application Programming Interface",
             "Use of pointers",
             ".java",
-            "JAVA_HOME"
+            "JAVA_HOME",
+            "Both"
 
     };
 
