@@ -10,7 +10,8 @@ public class QuestionAnswer {
             "What is the extension of java code files?",
             "Which environment variable is used to set the java path?",
             "JavaScript is a ___ -side programming language.",
-            "Which JavaScript label catches all the values, except for the ones specified?"
+            "Which JavaScript label catches all the values, except for the ones specified?",
+            "Which are the correct “if” statements to execute certain code if “x” is equal to 2?"
     };
 
     public static String choices[][]={
@@ -21,7 +22,8 @@ public class QuestionAnswer {
             {".js",".txt",".java",".class"},
             {"MAVEN_Path","JavaPATH","JAVA","JAVA_HOME"},
             {" Client" ,"Server"," Both" ,"None"},
-            {"catch","label","try","default"}
+            {"catch","label","try","default"},
+            {" if(x 2)","if(x = 2)","if(x == 2)","if(x != 2 )"}
 
     };
 
@@ -33,7 +35,8 @@ public class QuestionAnswer {
             ".java",
             "JAVA_HOME",
             "Both",
-            "default"
+            "default",
+            "if(x==2)"
 
     };
 
