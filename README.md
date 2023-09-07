@@ -1,4 +1,4 @@
-# Quiz-Application
+# Quiz-Application 1
 This project is a quiz application that allows users to take quizzes and test their knowledge on various topics. The application provides a user-friendly interface for taking quizzes and displays the results at the end.
 
 
